@@ -27,7 +27,7 @@ import de.cismet.tools.gui.BasicGuiComponentProvider;
  * @author   jlauter
  * @version  $Revision$, $Date$
  */
-@ServiceProvider(service = BasicGuiComponentProvider.class)
+//@ServiceProvider(service = BasicGuiComponentProvider.class)
 public class DeltaConfigurationListWidgedProvider implements BasicGuiComponentProvider {
 
     //~ Static fields/initializers ---------------------------------------------
