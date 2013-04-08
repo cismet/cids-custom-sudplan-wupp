@@ -7,3 +7,8 @@ This project in conjunction with cismet/sudplan-wupp-model-ie and cismet/geocpm-
 The implementation is based on the cismet/cids-custom-sudplan-3d project.
 
 ![Figure 0:](http://www.cismet.de/images/githubprojects/cids-custom-sudplan-wupp_800x450.png "Runoff simulation result 2D - 3D")
+
+License
+=======
+
+cids-custom-sudplan-wupp is distributed under [LGPLv3](https://github.com/cismet/cids-custom-sudplan-wupp/blob/dev/LICENSE)
